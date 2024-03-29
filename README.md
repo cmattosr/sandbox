@@ -1,2 +1,4 @@
 # sandbox
-The goal opf this repository is to be used as a learning tool
+The goal of this repository is to be used as a learning tool
+
+The first project is to learn Ollama
